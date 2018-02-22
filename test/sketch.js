@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  //background(220);
   text(deviceOrientation, 0, 0);
   text(accelerationX, 0, 20);
   text(accelerationY, 0, 40);
