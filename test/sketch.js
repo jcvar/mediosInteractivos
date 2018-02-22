@@ -28,8 +28,17 @@ function deviceMoved() {
 }
 
 function deviceTurned() {
-  fill(0, 255, 0);
+  if (turnAxis === 'X')
+    fill(255, 0, 0);
+  
+  if (turnAxis === 'Y')
+    fill(0, 255, 0);
+  
+  if (turnAxis === 'Z')
+    fill(0, 0, 255);
+  
   rect(200, 100, 100, 100);
+  fill(0);
 }
 
 function deviceShaken() {
