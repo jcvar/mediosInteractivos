@@ -9,7 +9,7 @@ function setup() {
 
 function draw() {
 	background(255);
-	if (turnAxis != undefined) {
+	if (turnAxis == 'X' || turnAxis == 'Y' || turnAxis == 'Z') {
 		text(shwtm, width / 2, height / 2);
 	} else {
 		text(shwtm, width / 2, 10);
