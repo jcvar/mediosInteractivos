@@ -6,6 +6,7 @@ Juan Camilo Vargas - 201317011
 2. 06/02 [Anni Albers Design for Wall Hanging 1926](02)
 3. 13/02 [Lissajous Curves](03)
 4. 20/02 [Paint5](04)
+5. 27/02 [Dot](05A) & [Shaker](05B)
 
 [Home](https://jcvargas10.github.io/mediosInteractivos)
 
