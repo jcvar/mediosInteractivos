@@ -8,6 +8,7 @@ Juan Camilo Vargas - 201317011
 4. 20/02 [Paint5](04)
 5. 27/02 [Dot](05A) & [Shaker](05B)
 6. 06/03 [Summer/Winter](06)
+6. 13/03 [Tinting](07)
 
 [Home](https://jcvargas10.github.io/mediosInteractivos)
 
