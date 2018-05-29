@@ -7,7 +7,7 @@ In this version, the game is displayed on a single monitor and using gyroscope e
 
 This game was developed as a [p5.js](https://p5js.org/) sketch and runs on [Node.js](https://nodejs.org/en/) using [Express](https://expressjs.com/). All multiplayer features are built with [Socket.IO](https://socket.io/).
 
-All of the code is uploaded as it was presented in the final deliveries' showcase for *Diseño en Medios Interactivos* at *Universidad de Los Andes* on May 22, 2018.
+All of the code is uploaded as it was presented in the final showcase for *Diseño en Medios Interactivos* at *Universidad de Los Andes* on May 22, 2018.
 
 #### ¿How to run the game locally?
 This game requires node on your host computer, you can download it [here](https://nodejs.org/en/download/). Both the display device and players must be connected to the same wireless network as the host.
