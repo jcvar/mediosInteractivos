@@ -13,7 +13,7 @@ All of the code is uploaded as it was presented in the final showcase for *DiseÃ
 This game requires node on your host computer, you can download it [here](https://nodejs.org/en/download/). Both the display device and players must be connected to the same wireless network as the host.
 
 ##### Host computer:
-1. Download the folder [`asteroids.io`](/asteroids.io)
+1. Download the folder [`asteroids.io`](asteroids.io)
 2. Find your local IP address (in MacOS: System Preferences > Network > Wi-Fi)
 3. Edit the sketch file with your IP address:
   * Open the file `/asteroids.io/public/public.js` on your preferred editor
