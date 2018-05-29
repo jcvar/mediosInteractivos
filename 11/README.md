@@ -1,7 +1,7 @@
 # ASTEROIDS.io
 ### Proyecto Final - Diseño en Medios Interactivos
 
-Asteroids.io is a multi-player variant of the arcade shooter "Asteroids", initially released in november 1979. [Wikipedia](https://en.wikipedia.org/wiki/Asteroids_(video_game))
+Asteroids.io is a multi-player variant of the arcade shooter *Asteroids*, initially released in november 1979. [Wikipedia](https://en.wikipedia.org/wiki/Asteroids_(video_game))
 
 In this version, the game is displayed on a single monitor and using gyroscope enabled devices each player battles others players and competes for the highest score.
 
