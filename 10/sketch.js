@@ -41,9 +41,10 @@ function setup() {
   // Only redraw map changes.
   myMap.onChange(drawRoute);
 
-
+  var p = createP('Display SITP route:');
+  p.position(10, 595);
   ruta = createSelect();
-  ruta.position(10, 610);
+  ruta.position(150, 610);
 
   for (let i = 0; i < sitp.getRowCount(); i += 1) {
     let s = sitp.getRow(i).obj["Ruta Comercial"] + " (" + sitp.getRow(i).obj["Ruta SAE"] + ")";
